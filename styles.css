@@ -27,6 +27,15 @@ header {
     margin-bottom: 15px;
 }
 
+iframe {
+  display: block;
+  margin: 20px auto;
+  border: none;
+  z-index: 5;
+  position: relative;
+}
+
+
 #tagline {
     font-style: italic;
     margin-top: 5px;
@@ -120,3 +129,4 @@ footer {
 
 /* Responsive note: This is a fixed width layout */
 /* You may add responsive rules if desired */
+
